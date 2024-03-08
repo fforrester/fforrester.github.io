@@ -4,14 +4,14 @@ main:
     url: https://scholar.google.com/citations?user=MqDJwsEAAAAJ
     target: "_blank"
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  # url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Supervision"
     url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "News"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
