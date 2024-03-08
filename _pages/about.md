@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Frazer N. Forrester" # Maybe delete this if image renders well
+title: "Frazer N. Forrester" # Maybe delete this if image renders well
 excerpt: "About me"
 author_profile: true
 redirect_from: 
