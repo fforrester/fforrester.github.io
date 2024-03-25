@@ -5,19 +5,25 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Awards
+## Awards & Nominations
+- Nominated in 'The Education Awards (TEAs) 2024' hosted by Newcastle Universities Students' Union.
 - Currently working towards Fellowship of the Higher Education Authority (FHEA) status.
 - [Associate Fellowship of the Higher Education Authority](https://fforrester.github.io/files/Frazer%20Forrester%20-%20Associate%20Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
 
+---
 ## Teaching
 
+---
 ## Project Supervision
 
-Alex Watkins Mchem
-Dylan Spraggon Mchem
+- Alex Watkins Mchem
+- Dylan Spraggon Mchem
 
+---
 ## Reccomendations and 
 
-Quotes from PhD, Masters & Undergraduate students I have supervised:
+### Quotes from PhD, Masters & Undergraduate students I have supervised:
 
-Quotes from Colleaugues (Academic staff):
+> Quote here <!-- Person -->
+
+### Quotes from Colleaugues (Academic staff):
