@@ -20,7 +20,7 @@ author_profile: true
 - Dylan Spraggon Mchem
 
 ---
-## Reccomendations and 
+## Recomendations and Referrals
 
 ### Quotes from PhD, Masters & Undergraduate students I have supervised:
 
