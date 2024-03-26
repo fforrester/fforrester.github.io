@@ -16,8 +16,8 @@ author_profile: true
 ---
 ## Project Supervision
 
-- Alex Watkins Mchem
-- Dylan Spraggon Mchem
+- Alex Watkins MChem
+- Dylan Spraggon MChem
 
 ---
 ## Recomendations and Referrals
