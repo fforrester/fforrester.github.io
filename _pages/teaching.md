@@ -27,3 +27,4 @@ author_profile: true
 > Quote here <!-- Person -->
 
 ### Quotes from Colleaugues (Academic staff):
+> Frazer has been great member of the teaching team and has been particularly successful in building a rapport with the UG students he taught. His approach to demonstrating in the lab is student centred, with a clear focus on creating supportive environments for student learning. <! Dr Hanno Kossen>
