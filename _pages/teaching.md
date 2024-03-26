@@ -28,4 +28,4 @@ author_profile: true
 
 ### Quotes from Colleagues (Academic staff):
 > "Frazer has been a great member of the teaching team and has been particularly successful in building rapport with the undergraduate students he taught. His approach to demonstrating in the lab is student-centered, with a clear focus on creating supportive environments for student learning."  
-> *- Dr. Hanno Kossen, Lecturer, Newcastle University*
+> *- Dr Hanno Kossen, Lecturer, Newcastle University*
