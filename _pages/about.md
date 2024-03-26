@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Frazer a Research Assistant in the group of Dr James Dawson at Newcastle University, where I am also completing my PhD. Prior to this I earned a Master's in Chemical Engineering from Lancaster University.
+Hi I'm Frazer, a Research Assistant in the group of Dr James Dawson at Newcastle University, where I am also completing my PhD. Prior to this I earned a Master's in Chemical Engineering from Lancaster University.
 
 Research Overview
 ======
