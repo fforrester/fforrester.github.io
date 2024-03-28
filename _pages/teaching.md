@@ -12,6 +12,17 @@ author_profile: true
 
 ---
 ## Teaching
+- Stage 1 Scientific Computing for Chemists 
+
+## Demonstrating
+### Laboratory Modules
+- Stage 1 General Chemistry
+- Stage 2 Physical Chemistry
+- Stage 3 Advanced Practical Physical Chemistry
+
+### Computational Modules
+- Stage 1 Scientific Computing for Chemists 
+
 
 ---
 ## Project Supervision
