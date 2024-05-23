@@ -12,23 +12,23 @@ author_profile: true
 
 ---
 ## Teaching
-- Stage 1 Scientific Computing for Chemists 
-
+- Stage 1 Scientific Computing for Chemists (2023/24)
+---
 ## Demonstrating
 ### Laboratory Modules
-- Stage 1 General Chemistry
-- Stage 2 Physical Chemistry
-- Stage 3 Advanced Practical Physical Chemistry
+- Stage 1 General Chemistry (2021-2023)
+- Stage 2 Physical Chemistry (2021-2023)
+- Stage 3 Advanced Practical Physical Chemistry (2021-2023)
 
 ### Computational Modules
-- Stage 1 Scientific Computing for Chemists 
+- Stage 1 Scientific Computing for Chemists (2021-2023)
 
 
 ---
 ## Project Supervision
 
-- Alex Watkins MChem: _Understanding Superionic Transport in LaX$_3$ (x=Cl or Br) Based Solid Electrolytes_ 
-- Dylan Spraggon MChem: _Impact of Doping on Ionic Transport and Electronic Properties of  Li$_3$PS$_4$ Solid Electrolytes_ 
+- Alex Watkins MChem: _Understanding Superionic Transport in LaX<sub>3</sub> (x=Cl or Br) Based Solid Electrolytes_
+- Dylan Spraggon MChem: _Impact of Doping on Ionic Transport and Electronic Properties of Li<sub>3</sub>PS<sub>4</sub> Solid Electrolytes_
 
 ---
 ## Recommendations and Referrals
