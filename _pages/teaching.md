@@ -12,6 +12,7 @@ author_profile: true
 
 ---
 ## Teaching
+### Modules
 - Stage 1 Scientific Computing for Chemists (2023/24)
 ---
 ## Demonstrating
@@ -22,8 +23,6 @@ author_profile: true
 
 ### Computational Modules
 - Stage 1 Scientific Computing for Chemists (2021-2023)
-
-
 ---
 ## Project Supervision
 
