@@ -36,9 +36,17 @@ author_profile: true
 ---
 
 ## Recommendations and Referrals
+
 ### Quotes from PhD, Masters & Undergraduate students I have supervised:
 > Quote here <!-- Person -->
 
 ### Quotes from Colleagues (Academic staff):
 > "Frazer has been a great member of the teaching team and has been particularly successful in building rapport with the undergraduate students he taught. His approach to demonstrating in the lab is student-centered, with a clear focus on creating supportive environments for student learning."  
 > *- Dr Hanno Kossen, Lecturer, Newcastle University*
+
+---
+
+## Nomination Quote
+<div class="highlight-box">
+"Frazer was the first colleague I met during my PhD career and made a strong impression with his enthusiasm and helpfulness. He always went out of his way to explain things clearly, showing patience even when I asked the same question multiple times... Throughout my project, he provided support at every step, often writing code and creating programs to assist not only me but the entire group... Frazer also organizes regular group discussions, fostering an open environment where we can share our experiences and build stronger relationships... He is a reliable, trustworthy, and professionally competent friend."
+</div>
