@@ -9,6 +9,7 @@ author_profile: true
 - Nominated for 'The Education Awards (TEAs) 2024', hosted by Newcastle Universities Students' Union.
 - Currently working towards Fellowship of the Higher Education Academy (FHEA) status.
 - [Associate Fellowship of the Higher Education Academy](https://fforrester.github.io/files/Frazer%20Forrester%20-%20Associate%20Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
+- Active participant in the ['Python in Chemistry'](https://pythoninchemistry.org) group. 
 
 ---
 
