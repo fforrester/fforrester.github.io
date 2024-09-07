@@ -54,7 +54,7 @@ Furthermore, Frazer's inclusive approach to mentorship made me **feel like a val
 > *- Anonymous Nomination, Newcastle University*
 
 ### Quotes from Colleagues (Academic staff):
-> "Frazer has been a great member of the teaching team and has been particularly successful in building rapport with the undergraduate students he taught. His approach to demonstrating in the lab is student-centered, with a clear focus on creating supportive environments for student learning."
+> "Frazer has been a great member of the teaching team and has been particularly successful in **building rapport** with the undergraduate students he taught. His approach to demonstrating in the lab is **student-centered**, with a clear focus on **creating supportive environments** for student learning."
  
 > *- Dr Hanno Kossen, Lecturer, Newcastle University*
 
