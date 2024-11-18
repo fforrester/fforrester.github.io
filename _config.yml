@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Frazer N. Forrester"
 title_separator          : "-"
 name                     : &name "Frazer N. Forrester"
-description              : &description "Research Assistant at Newcastle University"
+description              : &description "Computational Chemist at Newcastle University"
 url                      : https://fforrester.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fforrester/fforrester.github.io"
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "pp.JPG"
   name             : "Frazer N. Forrester"
-  bio              : "Research Assisstant at Newcastle University"
+  bio              : "Computational Chemist at Newcastle University"
   location         : "Newcastle, UK"
   employer         : "Newcastle University"
   uri              : # URL
-  email            : "frazer.forrester@newcastle.ac.uk" 
+  email            : "f.forrester2@newcastle.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
