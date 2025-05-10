@@ -3,17 +3,10 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=MqDJwsEAAAAJ
     target: "_blank"
-
-  #- title: "Talks"
-  # url: /talks/    
-
+    
   - title: "Teaching & Supervision"
     url: /teaching/    
-        
-  #- title: "News"
-  #  url: /year-archive/
   
-
   - title: "CV"
     url: https://fforrester.github.io/files/Frazer_Forrester_CV.pdf
     target: "_blank"
