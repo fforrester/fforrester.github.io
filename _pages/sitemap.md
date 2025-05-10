@@ -11,27 +11,32 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% unless post.sitemap == false %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
 <h2>Posts</h2>
 {% for post in site.posts %}
-  {% include archive-single.html %}
+  {% unless post.sitemap == false %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h2>{{ label }}</h2>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
   {% endunless %}
-{% endfor %}
+
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" or post.sitemap == false %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
