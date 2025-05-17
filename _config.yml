@@ -49,8 +49,8 @@ author:
   # Social media
   twitter          : "frazerforrester"  # Replace this with your X / Twitter handle
   linkedin         : "https://www.linkedin.com/in/frazerforrester/"
-  instagram        : "frazerforrester" # Username
-  goodreads        : "frazerforrester"# Username
+  instagram        : # Username
+  goodreads        : # Username
   
   facebook         : # Username
   flickr           : # Username
@@ -134,9 +134,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-6HPV2BWJ0S
 
 
 # Reading Files
