@@ -46,15 +46,17 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  twitter          : "frazerforrester"  # Replace this with your X / Twitter handle
+  linkedin         : "https://www.linkedin.com/in/frazerforrester/"
+  Instagram        : "frazerforrester" # Username
+  GoodReads        : "frazerforrester"# Username
+  
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/frazerforrester/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -62,7 +64,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "frazerforrester"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -111,7 +112,6 @@ atom_feed:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
 
 
